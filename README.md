@@ -14,4 +14,8 @@ deep study for git<br />
 10.git reset --hard HEAD^ 回到倒数第二次提交 ^后边可以加数字 HEAD~1<br />
 11.git reset --hard id 回到id处<br />
 
+
 12.git reflog 显示所有的HEAD信息，为了回到过去之后取不到将来的HEAD ID<br />
+
+
+13.
