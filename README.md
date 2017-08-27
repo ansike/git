@@ -17,5 +17,3 @@ deep study for git<br />
 
 12.git reflog 显示所有的HEAD信息，为了回到过去之后取不到将来的HEAD ID<br />
 
-
-13.
